@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinthkumarms" alt="aravinthkumarms" /></a> </p>
 
-- 🔭 I’m currently working at Mr.Cooper [Pyro](https://pyroai.com/)
+- 🔭 I’m currently working at Mr.Cooper in [Pyro](https://pyroai.com/) project
 
 - 🌱 I’m currently learning **flutter, reactnative**
 
