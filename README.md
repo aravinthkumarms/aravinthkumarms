@@ -7,9 +7,9 @@
 
 - 🔭 I’m currently working at Mr.Cooper in [Pyro](https://pyroai.com/) project
 
-- 🌱 I’m currently learning **flutter, reactnative**
+- 🌱 I’m currently learning **flutter**
 
-- 💬 Ask me about **react, java, spring, python**
+- 💬 Ask me about **java, spring, python**
 
 - 📫 How to reach me **aravinthkumarse@gmail.com**
 
