@@ -5,14 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aravinthkumarms" alt="aravinthkumarms" /></a> </p>
 
-- 🔭 I’m currently working at Mr.Cooper in [Pyro](https://pyroai.com/) project
-
-- 🌱 I’m currently learning **flutter**
-
-- 💬 Ask me about **java, spring, python**
-
-- 📫 How to reach me **aravinthkumarse@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/aravinth-kumar-b75b021a7/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aravinth-kumar-b75b021a7/" height="30" width="40" /></a>
